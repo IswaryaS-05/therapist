@@ -1,5 +1,5 @@
 A Web Application to make an Online Appointment with Therapist. Bulid using HTML,CSS, PHP and MySql.
-Template Name:Therapist.
+Project Name:Therapist.
 Fully working using a Xampp.
 Thanks for downloading this template!
 ![home page](https://user-images.githubusercontent.com/66505484/83959458-aa12a500-a89a-11ea-8042-1cae65503a41.PNG)
